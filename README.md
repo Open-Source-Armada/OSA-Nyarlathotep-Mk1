@@ -65,16 +65,16 @@ Since the Azathoth Mk3 was always meant to be used in tandem with a hauler, bein
 
 The Nyarlathotep Mk1 is cheaper in almost every mat used in construction, making it an easier purchase and a less costly loss if pirated.
 
-It is recomended by myself to keep miners in the Elysium belt, and avoid doing the gate run with them, instead using a hauler to avoid the loss of you money earner.
+It is recommended by myself to keep miners in the Elysium belt, and avoid doing the gate run with them, instead using a hauler to avoid the loss of you money earner.
 
-With the introduction of hanger halls, setting up a dedicated fleet for a moon mining station is easier than ever, and opens the door to aquiring the mats to make a cap ship yourself.
+With the introduction of hanger halls, setting up a dedicated fleet for a moon mining station is easier than ever, and opens the door to acquiring the mats to make a cap ship yourself.
 
-Both hauler and miner stil hold there value as cap ship companions.
+Both hauler and miner still hold there value as cap ship companions.
 
-This ship still costs rare mats, but is noticably cheaper than most plasma haulers, which can be an expensive investment.
+This ship still costs rare mats, but is noticeably cheaper than most plasma haulers, which can be an expensive investment.
 
-If doing the gate run, it is recomended to only go solo when empty, and have your full speed to avoid most pirates, but ultamatly your awarness is the key difference in making it past a choke point.
+If doing the gate run, it is recommended to only go solo when empty, and have your full speed to avoid most pirates, but ultimately your awareness is the key difference in making it past a choke point.
 
 Unless followed from your location in the belt, returning fully loaded is perfectly safe bar pilot error in gravity, allowing you to make way more than you risk loosing after a one or 2 runs.
 
-Ship could be modified to be even cheaper, but i personaly value the weight loss and faster gen ramp up T3 gens provide.
+Ship could be modified to be even cheaper, but i personally value the weight loss and faster gen ramp up T3 gens provide.
