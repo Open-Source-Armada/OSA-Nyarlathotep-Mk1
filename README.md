@@ -73,7 +73,7 @@ Both hauler and miner stil hold there value as cap ship companions.
 
 This ship still costs rare mats, but is noticably cheaper than most plasma haulers, which can be an expensive investment.
 
-If doing the gate run, it is recomended to only go solo when empty, and have you full speed to avoid most pirates, but ultamatly your awarness is the key difference in making it past a choke point.
+If doing the gate run, it is recomended to only go solo when empty, and have your full speed to avoid most pirates, but ultamatly your awarness is the key difference in making it past a choke point.
 
 Unless followed from your location in the belt, returning fully loaded is perfectly safe bar pilot error in gravity, allowing you to make way more than you risk loosing after a one or 2 runs.
 
